@@ -8,9 +8,6 @@ This repository contains comprehensive test case templates for the WhatsApp Mobi
 ### Details
 - **Scenario ID**: TS 001
 - **Description**: Validate the status functionality within the WhatsApp Mobile Application.
-- **Created By**: [Author]
-- **Date**: [Date]
-- **Reviewed By**: [Reviewer]
 - **Number of Test Cases**: 30
 
 ### Test Cases Overview
