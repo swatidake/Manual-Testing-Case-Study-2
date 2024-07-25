@@ -19,5 +19,5 @@ Below is a sample structure for the test cases. The full set of 30 test cases is
 | TC 002       | TS 001      | Check status deletion | Status exists        | [Data]    | [Steps] | Status deleted successfully | [Actual]      | [Pass/Fail] | [Comments]      |
 | ...          | ...         | ...                   | ...                  | ...       | ...   | ...               | ...           | ...          | ...             |
 | TC 030       | TS 001      | Validate status privacy settings | User has multiple contacts | [Data] | [Steps] | Privacy settings updated correctly | [Actual] | [Pass/Fail] | [Comments] 
-|
+
 
