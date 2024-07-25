@@ -1,7 +1,7 @@
 # WhatsApp Mobile Application Test Cases
 
 ## Overview
-This repository contains comprehensive test case templates for the WhatsApp Mobile Application (Android). These test cases are designed to ensure the app's status functionality operates correctly and meets user expectations.
+This repository contains comprehensive test case templates for the WhatsApp Mobile Application (Android).
 
 ## Test Scenario: Status Functionality
 
